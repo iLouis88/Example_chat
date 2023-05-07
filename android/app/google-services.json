@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391096138970",
+    "project_id": "chatappwe-e243d",
+    "storage_bucket": "chatappwe-e243d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391096138970:android:7e7a3f089f1d5d6e61b9e3",
+        "android_client_info": {
+          "package_name": "com.example.savia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391096138970-elb7kj0i179m7k37acoe9ngk7g5llq53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDricf7ahEr_vzGKTvBZ3pkJX758dh5MXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391096138970-elb7kj0i179m7k37acoe9ngk7g5llq53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
